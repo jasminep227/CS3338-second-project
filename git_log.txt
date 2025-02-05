@@ -1,0 +1,57 @@
+commit 2e959fa641d63adabeb2b9787487af6226e4ca86
+Merge: 79a884c f0cf68b
+Author: jasminep227 <jasminerp2274@gmail.com>
+Date:   Tue Feb 4 16:08:14 2025 -0800
+
+    Resolved merge conflict and kept both divs
+
+commit f0cf68bddbc56689766343b14449d5cc32512a7e
+Author: jasminep227 <jasminerp2274@gmail.com>
+Date:   Tue Feb 4 16:04:42 2025 -0800
+
+    Added favorite movie/game div in index.html
+
+commit 79a884c2a146ef4ef8e67b32903b5cdff8e02c6f
+Author: jasminep227 <jasminerp2274@gmail.com>
+Date:   Tue Feb 4 16:02:53 2025 -0800
+
+    Added favorite food div in index.html
+
+commit cca44df8f7fd619b8d7652bf0f1873f6e5bf3dd1
+Author: jasminep227 <jasminerp2274@gmail.com>
+Date:   Tue Feb 4 15:56:34 2025 -0800
+
+    Added README.md with project description
+
+commit 0507dc71a39035fb9b0bb1f6070c724704778a05
+Author: jasminep227 <jasminerp2274@gmail.com>
+Date:   Tue Feb 4 15:52:18 2025 -0800
+
+    commited readme
+
+commit 98c0302e4488529f148fdaf6d1e67ea6b716e249
+Author: jasminep227 <jasminerp2274@gmail.com>
+Date:   Fri Jan 31 13:40:30 2025 -0800
+
+    this is a readme file
+
+commit 132612cc48eed9a77cb2656539cdf7f2e570741d
+Merge: 1d2bfc0 9882ea7
+Author: Jasmine Pineda <115665950+jasminep227@users.noreply.github.com>
+Date:   Fri Jan 31 13:36:35 2025 -0800
+
+    Merge pull request #1 from jasminep227/info-fill
+    
+    updated info branch
+
+commit 9882ea7b1d55b9fec049af8b5071c7ad7fd54d9f
+Author: jasminep227 <jasminerp2274@gmail.com>
+Date:   Fri Jan 31 13:29:18 2025 -0800
+
+    updated info branch
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
