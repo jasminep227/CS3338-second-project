@@ -1,0 +1,16 @@
+* bd8ea53 Modified index.html on main branch
+* d970d5e Added git log and repo location files
+*   2e959fa Resolved merge conflict and kept both divs
+|\  
+| * f0cf68b Added favorite movie/game div in index.html
+* | 79a884c Added favorite food div in index.html
+|/  
+* cca44df Added README.md with project description
+*   132612c Merge pull request #1 from jasminep227/info-fill
+|\  
+| | * 0507dc7 commited readme
+| | * 98c0302 this is a readme file
+| |/  
+| * 9882ea7 updated info branch
+|/  
+* 1d2bfc0 Added index.html
